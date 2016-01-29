@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 
+/* Hide logo when printing */
 .print-pdf .reveal::after {
     background-image: none;
 }
@@ -49,5 +50,10 @@
 }
 
 .reveal .post-it.orange {
-  background:#FFB812; 
+  background:orange; 
+}
+
+qr-code /deep/ img {
+    vertical-align: middle;
+    height: 2em;
 }
