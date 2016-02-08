@@ -57,3 +57,12 @@ qr-code /deep/ img {
     vertical-align: middle;
     height: 2em;
 }
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    text-shadow: #fff 0px 0px 1px,   #fff 0px 0px 1px,   #fff 0px 0px 1px, #fff 0px 0px 1px,   #fff 0px 0px 1px,   #fff 0px 0px 1px;
+}
