@@ -5,6 +5,9 @@
     "alternative-stories.html",
     "distill-your-backbone.html",
     "slice-out-tasks.html",
-    "summary.html",
-    "buy-the-book.html"
+    "concepts.html",
+    [
+        "buy-the-book.html",
+        "summary.md"
+    ]
 ]
