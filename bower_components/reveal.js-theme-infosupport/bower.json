@@ -21,6 +21,6 @@
     "Gruntfile.js"
   ],
   "dependencies": {
-    "reveal.js": "~3.3.0"
+    "reveal.js": ">=3.4.1"
   }
 }

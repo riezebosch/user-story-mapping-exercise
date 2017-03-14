@@ -1,6 +1,10 @@
-## User Story Mapping
-# Exercise
-[![book](resources/userstorymappingbook.jpg)](http://jpattonassociates.com/user-story-mapping/)
 
-<!-- .element: class="stretch" -->
-from the book
+# User Story Mapping Exercise
+
+From the terminal, pop in:
+
+  ```yo reveal:slide "Slide Title"```
+
+Available options:
+
+ ```--markdown --attributes --notes```
