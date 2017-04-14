@@ -22,7 +22,7 @@
     <h3 class="fragment">until you left for work</h3>
 </section>
     <section data-transition="fade">
-    <img class="stretch" src="resources/extract-54.png" />
+    <img class="stretch" src="img/extract-54.png" />
 </section> 
 <section>
     <blockquote>Tasks Are What We Do</blockquote>

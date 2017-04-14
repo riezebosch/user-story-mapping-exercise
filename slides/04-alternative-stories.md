@@ -18,7 +18,7 @@
     <h3 class="fragment">Write it down!</h3>
 </section>
 <section data-transition="fade">
-    <img class="stretch" src="resources/extract-58.png" />
+    <img class="stretch" src="img/extract-58.png" />
 </section>
 <section>
    <blockquote>Details, alternatives, variations, and exceptions fill in the body of a map.</blockquote>

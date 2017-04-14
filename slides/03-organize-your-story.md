@@ -20,5 +20,5 @@
     <h2>the narrative flow</h2>
 </section>
 <section data-transition="fade">
-    <img class="stretch" src="resources/extract-57.png" />
+    <img class="stretch" src="img/extract-57.png" />
 </section>

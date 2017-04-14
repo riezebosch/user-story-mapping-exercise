@@ -1,9 +1,0 @@
-{
-  "generator-reveal-infosupport": {
-    "presentationTitle": "User Story Mapping Exercise",
-    "packageVersion": "0.0.1",
-    "deployToGithubPages": true,
-    "githubUsername": "riezebosch",
-    "githubRepository": "user-story-mapping-exercise"
-  }
-}

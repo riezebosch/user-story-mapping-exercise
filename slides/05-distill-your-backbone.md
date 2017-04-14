@@ -15,7 +15,7 @@
     <h1>TOP</h1>
 </section>
 <section data-transition="fade">
-    <img class="stretch" src="resources/extract-59.png" />
+    <img class="stretch" src="img/extract-59.png" />
 </section>
 <section>
    <blockquote>Activities aggregate tasks directed at a common goal.</blockquote>

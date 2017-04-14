@@ -26,7 +26,7 @@
     <h3>tasks that are missing</h3>
 </section>
 <section data-transition="fade">
-    <img class="stretch" src="resources/extract-60.png" />
+    <img class="stretch" src="img/extract-60.png" />
 </section>
 <section>
     <blockquote>Use slices to identify all the tasks and details relevant to a specific outcome.</blockquote>
