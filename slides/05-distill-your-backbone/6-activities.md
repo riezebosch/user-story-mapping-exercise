@@ -1,0 +1,1 @@
+>Activities aggregate tasks directed at a common goal.

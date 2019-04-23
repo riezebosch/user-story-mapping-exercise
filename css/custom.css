@@ -30,3 +30,7 @@ qr-code /deep/ img {
     vertical-align: middle;
     height: 2em;
 }
+
+#summary~ol {
+  zoom: 75%;
+}

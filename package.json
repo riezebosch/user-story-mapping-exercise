@@ -1,0 +1,23 @@
+{
+  "name": "user-story-mapping-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "kc-serve --theme @riezebosch/xpirit-theme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riezebosch/user-story-mapping-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riezebosch/user-story-mapping-exercise/issues"
+  },
+  "homepage": "https://github.com/riezebosch/user-story-mapping-exercise#readme",
+  "dependencies": {
+    "@infosupport/kc-serve": "^2.1.6",
+    "@riezebosch/xpirit-theme": "0.0.9"
+  }
+}
