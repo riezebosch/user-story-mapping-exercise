@@ -1,3 +1,2 @@
 ## tell
-your story 
-## from left to right
+your story from left to right

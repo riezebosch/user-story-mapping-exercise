@@ -34,3 +34,7 @@ qr-code /deep/ img {
 #summary~ol {
   zoom: 75%;
 }
+
+.reveal blockquote:before {
+  margin-top: 0.2em;
+}

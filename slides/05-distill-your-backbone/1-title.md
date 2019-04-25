@@ -1,2 +1,2 @@
-distill your
+distill your map to make a
 # backbone
